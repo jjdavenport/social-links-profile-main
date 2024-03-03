@@ -85,7 +85,7 @@ main h2{
     display: flex;
     text-align: center;
     text-decoration: none;
-    width: 28vw;
+    width: 24vw;
     height: 4vh;
     background-color: var(--link-background-color);
     color: var(--link-font-color);
